@@ -1,0 +1,37 @@
+_repo: O-Romance-d-uma-cantora_32380
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Medonça, Salvador de
+    aliases:
+    - Medonca, Salvador de
+    - De Medonça, Salvador
+    gutenberg_agent_id: '35816'
+    url: http://www.gutenberg.org/2009/agents/35816
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sirven, Alfred
+    aliases:
+    - Sirven, A. (Alfred)
+    - Sirven, Alfredo
+    birthdate: 1838
+    deathdate: 1900
+    gutenberg_agent_id: '35815'
+    url: http://www.gutenberg.org/2009/agents/35815
+description: ''
+gutenberg_issued: '2010-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32380'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: O Romance d'uma cantora
+url: http://www.gutenberg.org/ebooks/32380
